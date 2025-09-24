@@ -1,8 +1,8 @@
-slider-country-animation
+#slider-country-animation
 
 ![Image](https://github.com/user-attachments/assets/dd1b6ba2-0d5a-419a-8705-3b01ae03938a)
 
-
+https://hivadi-dev.github.io/slider-country-animation/
 
 
 - Developed by hiva dargazani
